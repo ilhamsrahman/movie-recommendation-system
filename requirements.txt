@@ -1,0 +1,7 @@
+numpy<2.0          # scikit-surprise is not yet compatible with NumPy 2
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-surprise
+jupyter
